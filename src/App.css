@@ -1,0 +1,70 @@
+
+body {
+  background-image: linear-gradient(
+    to right top,
+    #0b5b85,
+    #007ea6,
+    #00a2be,
+    #00c7cb,
+    #12ebcd
+  );
+
+  overflow-x: hidden;
+  /* font-size: 24px; */
+  margin: 0px;
+  padding: 0px;
+}
+
+/* custom line-Through */
+.custom-line-through{
+  text-decoration: line-through;
+   /* text-decoration-color: #00809D;       */
+    text-decoration-color: #0bcfcf; 
+  /* text-decoration-color: #db06b8; */
+  text-decoration-thickness: 2px;
+}
+
+/* toDo Header shadow and backGround */
+.header {
+  /* text-shadow: 0 6px 0 #474646; */
+  /* background-image: linear-gradient(to right, #2b4cbe, #007ae0, #00a2ec, #00c6eb, #27e7e4); */
+  background-image: linear-gradient(
+    to right,
+    #19a6e3,
+    #51a6ef,
+    #7ba4f7,
+    #a2a1f9,
+    #c59cf5,
+    #bfa4f9,
+    #baacfd,
+    #b6b3ff,
+    #8ac4ff,
+    #5ad4ff,
+    #39e0ff,
+    #4ee9e8
+  );
+}
+.header h1{
+     /* text-shadow: -3px 6px 1px #474545; */
+  text-shadow: 0 6px 0 #474646;
+}
+
+/* add toDo backGround */
+.addTodo {
+  /* background-image: linear-gradient(to right top, #1a4257, #006981, #0093a5, #00bfbf, #12ebcd); */
+  background-image: linear-gradient(
+    to right,
+    #19a6e3,
+    #51a6ef,
+    #7ba4f7,
+    #a2a1f9,
+    #c59cf5,
+    #bfa4f9,
+    #baacfd,
+    #b6b3ff,
+    #8ac4ff,
+    #5ad4ff,
+    #39e0ff,
+    #4ee9e8
+  );
+}
