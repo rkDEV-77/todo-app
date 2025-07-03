@@ -11,6 +11,10 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+
+
+###### GITHUB LINK OF PROJECT --> https://github.com/rkDEV-77/todo-app
+
 ## Explanation of how a To-Do List Project works with the following functionalities:
 
 -> Add Task
@@ -76,10 +80,10 @@ If you are developing a production application, we recommend using TypeScript wi
 -> Task shows an input box temporarily, then updates with new content.
 
 
-## 🛠️ Optional Enhancements
-🗂️ Save to localStorage to persist tasks across page reloads.
-✅ Filter tasks: All / Completed / Incomplete.
-🎨 Styled UI with Tailwind CSS.
+##  Optional Enhancements
+-> Save to localStorage to persist tasks across page reloads.
+-> Filter tasks: All / Completed / Incomplete.
+=> Styled UI with Tailwind CSS.
 
 
 
