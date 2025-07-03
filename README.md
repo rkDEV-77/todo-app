@@ -82,7 +82,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #  Optional Enhancements
 -> Save to localStorage to persist tasks across page reloads.
--> Filter tasks: All / Completed / Incomplete.
+-> Show tasks status: All / Completed / Incomplete.
 -> Styled UI with Tailwind CSS.
 
 
